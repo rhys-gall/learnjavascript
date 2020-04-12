@@ -1,0 +1,21 @@
+//Notes these are the commands that nathan has taught us today
+
+// terminal commands:
+/*
+mkdir: make directory 
+
+ls: this means list  all the files insie the folder
+
+touch: this createsa file of any simple type if you want to write code
+
+*/
+/*
+
+node: commands
+node --version: tells you which version of node you have installed
+
+*/
+/*
+javascript definitions:
+var myVariableName = "string"
+*/
